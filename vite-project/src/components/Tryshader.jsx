@@ -19,7 +19,7 @@ function Tryshader() {
     emitter0.isVisible = false;
 
     var particleSystem = new BABYLON.ParticleSystem("particles", 4000, scene);
-    particleSystem.particleTexture = new BABYLON.Texture("./valleygrass.png", scene);
+    particleSystem.particleTexture = new BABYLON.Texture("./crate.png", scene);
     particleSystem.minSize = 0.1;
     particleSystem.maxSize = 1.0;
     particleSystem.minLifeTime = 0.5;
