@@ -24,7 +24,7 @@ function App() {
     <Particle1/>
 
     {/* <Waterpool/> */}
-    <Fluidparticle/>
+    {/* <Fluidparticle/> */}
     <Tryshader/>
     {/* <Waveflat/>   */}
     <Particle/>
