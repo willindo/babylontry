@@ -10,9 +10,9 @@ import DynamicConfig from './components/DynamicConfig'
 import MultiGlowLayer from './components/MultiGlowLayer'
 import BabylonScene from './components/BabylonScene'
 import Particle from './components/Particle'
-import Fluidparticle from './components/Fluidparticle'
-import Waveflat from './components/Waveflat'
-import Waterpool from './components/Waterpool'
+// import Fluidparticle from './components/Fluidparticle'
+// import Waveflat from './components/Waveflat'
+// import Waterpool from './components/Waterpool'
 import Tryshader from './components/Tryshader'
 import Particle1 from './components/Particle1'
 
@@ -26,6 +26,7 @@ function App() {
     {/* <Waterpool/> */}
     {/* <Fluidparticle/> */}
     <Tryshader/>
+    {/* <Particle1/> */}
     {/* <Waveflat/>   */}
     <Particle/>
      {/* <BabylonScene/> */}
